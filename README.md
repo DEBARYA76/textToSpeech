@@ -1,2 +1,3 @@
 # textToSpeech
-A Pyhton script to convert text to speech
+A Python script to convert text to speech
+Run pip3 install -r requirements.txt
